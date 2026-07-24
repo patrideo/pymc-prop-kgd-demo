@@ -1,0 +1,3 @@
+[submodule "external/pymc-prop"]
+	path = external/pymc-prop
+	url = https://github.com/pymc-devs/pymc-prop.git
